@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building browser based game systems with Go
-- 🌱 I’m currently learning Rust and game engines 
-- 👯 I’m looking to collaborate on open source multiplayer game project
+- 🌱 I’m currently learning development with Rust and game engines 
+- 👯 I’m looking to collaborate on multiplayer game project
 - 🤔 I’m looking for a help with game asset designs
-- 💬 Ask me about anything
 - 📫 How to reach me: DM
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alparslanahmed&count_private=true&show_icons=true&theme=dracula)
